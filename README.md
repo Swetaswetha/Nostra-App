@@ -32,5 +32,5 @@ Nostra is a stylish and responsive fashion e-commerce website built using HTML, 
 
 # Live Preview
 Check out the live version here:
-👉 Nostra E-Commerce ()
+👉 Nostra E-Commerce (  https://swetaswetha.github.io/Nostra-App/ )
 
